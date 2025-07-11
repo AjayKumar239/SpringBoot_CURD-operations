@@ -25,12 +25,7 @@ Postman (for API testing)
 ⚙️ Setup Instructions
 Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Set up your database in application.properties
+
 
 properties
 Copy
